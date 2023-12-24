@@ -108,7 +108,14 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 <br>
+<h2> Jokey Cards: </h2>
+<div align="center">
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+</div>
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
