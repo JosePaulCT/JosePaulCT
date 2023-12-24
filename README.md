@@ -4,8 +4,18 @@
 </p>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
- 
+
+
 <img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" title="Night-Coding" alt="Person coding Night">
+
+<ul>
+  <li>I am self-taught.</li>
+  <li>I love chess.</li>
+  <li>Check out my <a href="https://josepaulct.github.io/">personal website</a> and my <a href="#">blog</a>.</li>
+  <li>I have a curious mind; I ask too many questions! 🤔</li>
+  <li>Ask me about anything; I am happy to help! 🌟</li>
+</ul>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
