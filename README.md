@@ -44,25 +44,23 @@
 ### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
 
 <br>
-
-<span><img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails logo" title="Ruby On Rails" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js logo" title="Node.js" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase logo" title="Firebase" height="25"/></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku logo" title="Heroku" height="25"/></span>
-&nbsp;
-<span>
 <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span>
 <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25"/>
 </span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo" title="Docker Code" height="25" /></span>
+<span>
+<img src = "https://img.shields.io/badge/SQLite-005C84?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite logo" title="SQLite" height="25"/>
+</span>
+&nbsp;
+<span>
+<img src = "https://img.shields.io/badge/SQLServer-005C84?style=for-the-badge&logo=sqlserver&logoColor=white" alt="SQLServer logo" title="SQLServer" height="25"/>
+</span>
 &nbsp;
 
 
@@ -93,16 +91,18 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="Vim logo" title="Vim" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Jetbrains-000000.svg?&style=for-the-badge&logo=jetbrains&logoColor=white" alt="Jetbrains logo" title="Jetbrains" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/FreeBSD-%ffff0000.svg?&style=for-the-badge&logo=freebsd&logoColor=white" alt="Freebsd logo" title="FreeBSD" height="25" /></span>
+<span><img src="https://img.shields.io/badge/FreeBSD-FF0000?.svg?&style=for-the-badge&logo=freebsd&logoColor=white" alt="Freebsd logo" title="FreeBSD" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/CentOS-00A0FC?.svg?&style=for-the-badge&logo=centos&logoColor=white" alt="CentOS logo" title="CentOS" height="25" /></span>
 
 <br>
 <br>
 
 <i> Recently, I'm also learning: </i>
 
-<span><img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL logo" title="GraphQL" height="25" /></span>
+<span><img src="https://img.shields.io/badge/GraphQl-FF0000?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL logo" title="GraphQL" height="25" /></span>
 &nbsp;
 
 <br>
