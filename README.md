@@ -3,10 +3,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=750&height=100&lines=Systems+and+Computer+Engineering..&hearts;++;Self-taught+FullStack+Developer,;Willing+to+learn+new+technologies..<3,;Active+Learner/Researcher,;The+person+who+will+change+the+world+with+technology"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px height="auto"></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px></picture> **About me**
 
 
-<img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" title="Night-Coding" alt="Person coding Night">
+<img align="right" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" title="Night-Coding" alt="Person coding Night" width=30%>
 
 <ul>
   <li>I am self-taught.</li>
