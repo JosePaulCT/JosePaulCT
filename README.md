@@ -11,7 +11,7 @@
 <ul>
   <li>I am self-taught.</li>
   <li>I love chess.</li>
-  <li>Check out my <a href="https://josepaulct.github.io/">personal website</a> and my <a href="#">blog</a>.</li>
+  <li>Check out my <a href="https://josepaulct.github.io/" target="_blank">personal website</a> and my <a href="#">blog</a>.</li>
   <li>I have a curious mind; I ask too many questions! 🤔</li>
   <li>Ask me about anything; I am happy to help! 🌟</li>
 </ul>
