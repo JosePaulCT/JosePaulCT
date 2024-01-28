@@ -49,6 +49,8 @@
 <span><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI logo" title="Material UI" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Astro-5F19B7?style=for-the-badge&logo=astro&logoColor=white" alt="Astro logo" title="Astro" height="25" /></span>
 
 ### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
 
